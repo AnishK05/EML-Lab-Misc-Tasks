@@ -1,0 +1,2 @@
+# Tell git what files to ignore.
+# *.txt would tell git to ignore all txt files.
