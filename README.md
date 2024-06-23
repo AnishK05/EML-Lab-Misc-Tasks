@@ -1,0 +1,1 @@
+During my internship at the University of Texas at Dallas (UTD) Embedded Machine Learning (EML) Lab, I worked on various projects involving advanced machine learning techniques. Due to the proprietary nature of most of the code, it remains confidential and is affiliated with the UTD EML Lab. This repository contains miscellaneous code that I developed during my internship.
